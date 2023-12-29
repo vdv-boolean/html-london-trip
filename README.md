@@ -1,10 +1,10 @@
 # London Trip
 
-Esample of Travel Blog page
+Example of Travel Blog page
 
 ## Description
 
-A very simply page of a travel experience in London with expences, To Do List, utility info and gallery. Ony with html code!
+A very simple page of a travel experience in London with expenses, to-do list, utility information, and gallery. Only using HTML code!
 
 ## Getting Started
 
